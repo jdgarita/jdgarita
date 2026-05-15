@@ -9,6 +9,8 @@ I specialize in **Kotlin Multiplatform (KMP)** and **Compose Multiplatform**, sh
 ## 🚀 Currently Building & Maintaining
 
 * **[frnk](https://github.com/jdgarita/frnk)** — An open-source project exploring modern mobile architecture, native integrations, and clean code paradigms in the Kotlin ecosystem.
+* **Still** — A minimal food expiration tracking mobile app powered by Kotlin Multiplatform and Compose Multiplatform. 
+  * 🤖 **[Download for Android](https://play.google.com/store/apps/details?id=dev.jdgarita.freshtrack)** * 🍏 *iOS App coming soon...* ⏳
 
 ## 💻 Tech Stack
 
